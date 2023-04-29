@@ -129,7 +129,7 @@ header {
 }
 
 header > .inner { /*헤더의 자식요소 크기 설정*/
-  height: 120px;
+  height: 142px;
 }
 
 header .logo { /*로고 위치 설정*/
@@ -231,10 +231,6 @@ header .main-menu {
   display: flex;
 }
 
-header .main-menu .item {
-
-}
-
 header .main-menu .item .item__name { /*헤더 메인메뉴 상단바*/
   padding: 10px 20px 34px 20px;
   font-family: Arial, sans-serif;
@@ -307,7 +303,7 @@ header .main-menu .item .item__contents .contents__texture { /*메인메뉴 하�
 
 header .main-menu .item .item__contents .contents__texture h4 { /*메인메뉴 부가이름 글씨 설정*/
   color: #999;
-  font-weight: 700;
+  font-weight: 900;
 }
 
 header .main-menu .item .item__contents .contents__texture p { /*메인메뉴 부가이름이 선택되었을 때 설정*/
